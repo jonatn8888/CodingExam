@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouSourceCodingExam", "YouSourceCodingExam\YouSourceCodingExam.csproj", "{5824BFCB-9FD5-46F3-9B22-5E32D152321A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouSourceCodingExamTest", "YouSourceCodingExamTest\YouSourceCodingExamTest.csproj", "{F765FE38-9FF0-4C17-B11A-B585E2DFD240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5824BFCB-9FD5-46F3-9B22-5E32D152321A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5824BFCB-9FD5-46F3-9B22-5E32D152321A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5824BFCB-9FD5-46F3-9B22-5E32D152321A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5824BFCB-9FD5-46F3-9B22-5E32D152321A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F765FE38-9FF0-4C17-B11A-B585E2DFD240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F765FE38-9FF0-4C17-B11A-B585E2DFD240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F765FE38-9FF0-4C17-B11A-B585E2DFD240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F765FE38-9FF0-4C17-B11A-B585E2DFD240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694FAF74-0C6B-4FCC-A612-C11E5E65329B}
+	EndGlobalSection
+EndGlobal
