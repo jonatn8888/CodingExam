@@ -3,12 +3,15 @@ Create a windows form application that has the following requirements in C#.
 The program's primary functionality is to sort a string with the input from a user.
 
 Example input: befdac
+
 Expected output: abcdef
 
 The user interface will contain the following four elements:
 
 A textbox that allows the user to input a string A control (for instance a combo box) that selects the strategy to use for sorting the string.
+
 A button that will sort the string using the selected strategy.
+
 A label where the output will be shown (the sorted string)
 
 The FOCUS of the assignment is on implementing the DESIGN PATTERNS.
